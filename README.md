@@ -17,15 +17,15 @@ This process allows complex interactions with databases to be simplified into us
 
 ---
 ## Key Components
-**Flask Web Application**: Handles user input, interacts with the LLaMA model, and displays results.
-**LLaMA-based Text-to-SQL Conversion**: Converts natural language queries into SQL commands.
-**Database Integration (SQLite)**: An example database for testing; easily adaptable for other databases.
+1. **Flask Web Application**: Handles user input, interacts with the LLaMA model, and displays results.
+2. **LLaMA-based Text-to-SQL Conversion**: Converts natural language queries into SQL commands.
+3. **Database Integration (SQLite)**: An example database for testing; easily adaptable for other databases.
 
 ---
 ## Applications
-**Business Analytics**: Allow non-technical team members to query data for reports.
-**Educational Tools**: Helps students learn database querying by translating questions to SQL.
-**Data Science & Engineering**: Rapid access to SQL data without manually writing queries.
+1. **Business Analytics**: Allow non-technical team members to query data for reports.
+2. **Educational Tools**: Helps students learn database querying by translating questions to SQL.
+3. **Data Science & Engineering**: Rapid access to SQL data without manually writing queries.
 
 ---
 ## Project Structure
